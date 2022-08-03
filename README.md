@@ -1,5 +1,5 @@
 # comsol-dendrite
-This is a implementation of a model for dendritic growth during the solidification of a pure metal. The model was developed in Comsol Multiphysics 5.6.
+This is a implementation of a model for dendritic growth during the solidification of a pure metal. The model was developed in Comsol Multiphysics 5.6. If you want to have a quick look at what the model does, please have a look at the MP4 file.
 
 Author:
 Nils Ellendt
