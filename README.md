@@ -6,6 +6,7 @@ Nils Ellendt
 University of Bremen
 Particles & Process Engineering
 ellendt@uni-bremen.de
+This work can be referenced with its DOI: https://doi.org/10.5281/zenodo.6956605
 
 A detailed description of the model equations can be found in:
 Ferreira, Alexandre Furtado, Alexandre José da Silva, and José Adilson de Castro. "Simulation of the solidification of pure nickel via the phase-field method." Materials Research 9 (2006): 349-356.
