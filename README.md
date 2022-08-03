@@ -1,5 +1,5 @@
 # comsol-dendrite
-This is a comsol implementation of a model for dendritic growth during the solidification of a pure metal. The model was developed in Comsol Multiphysics 5.6.
+This is a implementation of a model for dendritic growth during the solidification of a pure metal. The model was developed in Comsol Multiphysics 5.6.
 
 Author:
 Nils Ellendt
@@ -65,5 +65,6 @@ The rest of the model is standard comsol settings. You can adjust the adaptive m
 
 I am sure that solver tuning is possible to speed up the calculation. This study was performed on a 12-core Intel Xeon machine with 256 GB RAM.
 
+With its formulation with the phae field function f and g, the model is already prepared to be extended to diffusion-dominated growth (as described here: https://www.researchgate.net/publication/312932269_Phase-Field_Simulation_of_Microsegregation_and_Dendritic_Growth_During_Solidification_of_Hypoeutectic_Al-Cu_alloys) or even thermo-solutional growth (as described here https://www.sciencedirect.com/science/article/pii/S1005030212600346 )
 
 If you have questions about the model or if you want to contribute, please do not hesitate to send me an Email!
